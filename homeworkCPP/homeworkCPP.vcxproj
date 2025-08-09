@@ -22,7 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{2d7a7c2e-aba7-4e89-a29c-3b3916d72213}</ProjectGuid>
-    <RootNamespace>HomeworkCpp</RootNamespace>
+    <RootNamespace>homeworkCPP</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>homeworkCPP</ProjectName>
   </PropertyGroup>
@@ -129,32 +129,32 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Homework1.cpp" />
-    <ClCompile Include="Homework10.cpp" />
-    <ClCompile Include="Homework11.cpp" />
-    <ClCompile Include="Homework12.cpp" />
-    <ClCompile Include="Homework13.cpp" />
-    <ClCompile Include="Homework14.cpp" />
-    <ClCompile Include="Homework15.cpp" />
-    <ClCompile Include="Homework16.cpp" />
-    <ClCompile Include="Homework17.cpp" />
-    <ClCompile Include="Homework18_20.cpp" />
-    <ClCompile Include="Homework19.cpp" />
-    <ClCompile Include="Homework2.cpp" />
-    <ClCompile Include="Homework21_22.cpp" />
-    <ClCompile Include="Homework23.cpp" />
-    <ClCompile Include="Homework24.cpp" />
-    <ClCompile Include="!Homework25.cpp" />
-    <ClCompile Include="Homework26.cpp" />
-    <ClCompile Include="Homework27.cpp" />
-    <ClCompile Include="!Homework28.cpp" />
-    <ClCompile Include="Homework3.cpp" />
-    <ClCompile Include="Homework4.cpp" />
-    <ClCompile Include="Homework5.cpp" />
-    <ClCompile Include="Homework6.cpp" />
-    <ClCompile Include="Homework7.cpp" />
-    <ClCompile Include="Homework8.cpp" />
-    <ClCompile Include="Homework9.cpp" />
+    <ClCompile Include="homework1.cpp" />
+    <ClCompile Include="homework10.cpp" />
+    <ClCompile Include="homework11.cpp" />
+    <ClCompile Include="homework12.cpp" />
+    <ClCompile Include="homework13.cpp" />
+    <ClCompile Include="homework14.cpp" />
+    <ClCompile Include="homework15.cpp" />
+    <ClCompile Include="homework16.cpp" />
+    <ClCompile Include="homework17.cpp" />
+    <ClCompile Include="homework18_20.cpp" />
+    <ClCompile Include="homework19.cpp" />
+    <ClCompile Include="homework2.cpp" />
+    <ClCompile Include="homework21_22.cpp" />
+    <ClCompile Include="homework23.cpp" />
+    <ClCompile Include="homework24.cpp" />
+    <ClCompile Include="!homework25.cpp" />
+    <ClCompile Include="homework26.cpp" />
+    <ClCompile Include="homework27.cpp" />
+    <ClCompile Include="!homework28.cpp" />
+    <ClCompile Include="homework3.cpp" />
+    <ClCompile Include="homework4.cpp" />
+    <ClCompile Include="homework5.cpp" />
+    <ClCompile Include="homework6.cpp" />
+    <ClCompile Include="homework7.cpp" />
+    <ClCompile Include="homework8.cpp" />
+    <ClCompile Include="homework9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
